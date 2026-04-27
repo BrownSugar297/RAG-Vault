@@ -1,0 +1,15 @@
+[submodule "simple-rag"]
+	path = simple-rag
+	url = https://github.com/BrownSugar297/Simple__R-A-G
+[submodule "multimodal-rag"]
+	path = multimodal-rag
+	url = https://github.com/BrownSugar297/Multimodal__R-A-G
+[submodule "corrective-rag"]
+	path = corrective-rag
+	url = https://github.com/BrownSugar297/Corrective__RAG
+[submodule "vectorless-rag"]
+	path = vectorless-rag
+	url = https://github.com/BrownSugar297/Vectorless__RAG
+[submodule "rag-as"]
+	path = rag-as
+	url = https://github.com/BrownSugar297/RAG_as
